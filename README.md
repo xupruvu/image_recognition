@@ -1,2 +1,17 @@
-# image_recognition
-è¾²åœ°ä½œç‰©ç¾æ³èª¿æŸ¥å½±åƒè¾¨è­˜
+###Àô¹Ò«Ø¥ß###
+
+¨Ï¥Îjupyter¨Ó°õ¦æµ{¦¡,¬ÛÃöpython®M¥ó»İ­npytorch
+
+splitData.ipynb
+­n¹B¦æ¦¹µ{¦¡½X»İ¥ı¤â°Ê«Ø¥ßtrain¸òtest¨â­Ó¸ê®Æ§¨
+¦¹µ{¦¡½X·|±N¸ê®Æ¨Ì8:2ªº¤ñ¨Ò¤Á¤À
+
+###Â²©ö¸ê®Æ±´¯Á###
+analysis.ipynb
+¬d¬İ­Ó¸ê®Æµ§¼Æ¤ÎÂ²³æ¿ù»~Ãş§O¤ÀªR
+
+###¦UÃş§Oweight­pºâ###
+count_weight.ipynb
+
+###¼Ò«¬°V½m###
+new_convNet_train.ipynb
